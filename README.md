@@ -1,5 +1,3 @@
 # Quiet
 
----
-
 Software by joeware
